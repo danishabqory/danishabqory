@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c353e306.css",
-    "main.js": "/static/js/main.1ed2b169.js",
+    "main.css": "/static/css/main.516a1092.css",
+    "main.js": "/static/js/main.aa32d3fc.js",
     "static/js/787.8d34ed44.chunk.js": "/static/js/787.8d34ed44.chunk.js",
-    "static/media/danish.png": "/static/media/danish.7b0a9a62c346ded3d52d.png",
+    "static/media/danish.png": "/static/media/danish.1b04e797b62d47469761.png",
     "static/media/hero.png": "/static/media/hero.8b2fe935515cad3161e0.png",
     "static/media/bawah.png": "/static/media/bawah.ab9ea039a112d0f3891f.png",
     "static/media/kiri-atas.png": "/static/media/kiri-atas.c4f930ba1ed4b1399cf6.png",
     "static/media/bg2.png": "/static/media/bg2.b1d09719af8f7564877f.png",
     "static/media/kanan-atas.png": "/static/media/kanan-atas.9a5bf2bdb47a0826686e.png",
     "index.html": "/index.html",
-    "main.c353e306.css.map": "/static/css/main.c353e306.css.map",
-    "main.1ed2b169.js.map": "/static/js/main.1ed2b169.js.map",
+    "main.516a1092.css.map": "/static/css/main.516a1092.css.map",
+    "main.aa32d3fc.js.map": "/static/js/main.aa32d3fc.js.map",
     "787.8d34ed44.chunk.js.map": "/static/js/787.8d34ed44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c353e306.css",
-    "static/js/main.1ed2b169.js"
+    "static/css/main.516a1092.css",
+    "static/js/main.aa32d3fc.js"
   ]
 }
